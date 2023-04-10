@@ -7,7 +7,9 @@ int main(){
     
     printf("\n Value of b is :%i", b);
     printf("\n Value of b is :%i", c);
-    printf("\n Value of b is :%u", d);
+    printf("\n Value of b is :%u", d);// it will be printing the garbaage value 
+    //as u is confined for the unsigned value 
+    
     return 0;
 
 }
